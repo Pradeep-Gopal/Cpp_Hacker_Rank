@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/simpleArraySum.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o"
-  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/solveMeFirst.cpp.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o"
+  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/a_very_big_sum.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

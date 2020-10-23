@@ -77,45 +77,30 @@ include CMakeFiles/Cpp_Hacker_Rank.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
 
-CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
-CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o: ../solveMeFirst.cpp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/solveMeFirst.cpp.cpp
+CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
+CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o: ../a_very_big_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/a_very_big_sum.cpp
 
-CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/solveMeFirst.cpp.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.i
+CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/a_very_big_sum.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.i
 
-CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/solveMeFirst.cpp.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.s
-
-CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
-CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o: ../simpleArraySum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/simpleArraySum.cpp
-
-CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/simpleArraySum.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.i
-
-CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/simpleArraySum.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.s
+CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/a_very_big_sum.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.s
 
 # Object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_OBJECTS = \
-"CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o" \
-"CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o"
+"CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o"
 
 # External object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_EXTERNAL_OBJECTS =
 
-Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o
-Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o
+Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/build.make
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Cpp_Hacker_Rank"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp_Hacker_Rank"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Cpp_Hacker_Rank.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

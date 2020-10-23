@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o"
-  "CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o"
+  "CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o"
   "Cpp_Hacker_Rank"
   "Cpp_Hacker_Rank.pdb"
 )

@@ -143,59 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-simpleArraySum.o: simpleArraySum.cpp.o
+a_very_big_sum.o: a_very_big_sum.cpp.o
 
-.PHONY : simpleArraySum.o
-
-# target to build an object file
-simpleArraySum.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.o
-.PHONY : simpleArraySum.cpp.o
-
-simpleArraySum.i: simpleArraySum.cpp.i
-
-.PHONY : simpleArraySum.i
-
-# target to preprocess a source file
-simpleArraySum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.i
-.PHONY : simpleArraySum.cpp.i
-
-simpleArraySum.s: simpleArraySum.cpp.s
-
-.PHONY : simpleArraySum.s
-
-# target to generate assembly for a file
-simpleArraySum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/simpleArraySum.cpp.s
-.PHONY : simpleArraySum.cpp.s
-
-solveMeFirst.cpp.o: solveMeFirst.cpp.cpp.o
-
-.PHONY : solveMeFirst.cpp.o
+.PHONY : a_very_big_sum.o
 
 # target to build an object file
-solveMeFirst.cpp.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.o
-.PHONY : solveMeFirst.cpp.cpp.o
+a_very_big_sum.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o
+.PHONY : a_very_big_sum.cpp.o
 
-solveMeFirst.cpp.i: solveMeFirst.cpp.cpp.i
+a_very_big_sum.i: a_very_big_sum.cpp.i
 
-.PHONY : solveMeFirst.cpp.i
+.PHONY : a_very_big_sum.i
 
 # target to preprocess a source file
-solveMeFirst.cpp.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.i
-.PHONY : solveMeFirst.cpp.cpp.i
+a_very_big_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.i
+.PHONY : a_very_big_sum.cpp.i
 
-solveMeFirst.cpp.s: solveMeFirst.cpp.cpp.s
+a_very_big_sum.s: a_very_big_sum.cpp.s
 
-.PHONY : solveMeFirst.cpp.s
+.PHONY : a_very_big_sum.s
 
 # target to generate assembly for a file
-solveMeFirst.cpp.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/solveMeFirst.cpp.cpp.s
-.PHONY : solveMeFirst.cpp.cpp.s
+a_very_big_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.s
+.PHONY : a_very_big_sum.cpp.s
 
 # Help Target
 help:
@@ -206,12 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... simpleArraySum.o"
-	@echo "... simpleArraySum.i"
-	@echo "... simpleArraySum.s"
-	@echo "... solveMeFirst.cpp.o"
-	@echo "... solveMeFirst.cpp.i"
-	@echo "... solveMeFirst.cpp.s"
+	@echo "... a_very_big_sum.o"
+	@echo "... a_very_big_sum.i"
+	@echo "... a_very_big_sum.s"
 .PHONY : help
 
 
