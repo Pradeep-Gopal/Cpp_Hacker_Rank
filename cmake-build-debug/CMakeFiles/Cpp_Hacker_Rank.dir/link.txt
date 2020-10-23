@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.o  -o Cpp_Hacker_Rank 
+/usr/bin/c++  -g   CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o  -o Cpp_Hacker_Rank 

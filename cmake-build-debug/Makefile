@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-diagonal_difference.o: diagonal_difference.cpp.o
+plus_minus.o: plus_minus.cpp.o
 
-.PHONY : diagonal_difference.o
+.PHONY : plus_minus.o
 
 # target to build an object file
-diagonal_difference.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.o
-.PHONY : diagonal_difference.cpp.o
+plus_minus.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o
+.PHONY : plus_minus.cpp.o
 
-diagonal_difference.i: diagonal_difference.cpp.i
+plus_minus.i: plus_minus.cpp.i
 
-.PHONY : diagonal_difference.i
+.PHONY : plus_minus.i
 
 # target to preprocess a source file
-diagonal_difference.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.i
-.PHONY : diagonal_difference.cpp.i
+plus_minus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.i
+.PHONY : plus_minus.cpp.i
 
-diagonal_difference.s: diagonal_difference.cpp.s
+plus_minus.s: plus_minus.cpp.s
 
-.PHONY : diagonal_difference.s
+.PHONY : plus_minus.s
 
 # target to generate assembly for a file
-diagonal_difference.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.s
-.PHONY : diagonal_difference.cpp.s
+plus_minus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.s
+.PHONY : plus_minus.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... diagonal_difference.o"
-	@echo "... diagonal_difference.i"
-	@echo "... diagonal_difference.s"
+	@echo "... plus_minus.o"
+	@echo "... plus_minus.i"
+	@echo "... plus_minus.s"
 .PHONY : help
 
 

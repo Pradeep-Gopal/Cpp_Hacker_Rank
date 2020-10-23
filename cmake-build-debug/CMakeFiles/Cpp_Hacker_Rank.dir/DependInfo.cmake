@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/diagonal_difference.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.o"
+  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/plus_minus.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
