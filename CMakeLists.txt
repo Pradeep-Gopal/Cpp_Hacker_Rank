@@ -3,4 +3,4 @@ project(Cpp_Hacker_Rank)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Cpp_Hacker_Rank a_very_big_sum.cpp)
+add_executable(Cpp_Hacker_Rank diagonal_difference.cpp)

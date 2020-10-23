@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/a_very_big_sum.cpp">
+		<Unit filename="/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/diagonal_difference.cpp">
 			<Option target="Cpp_Hacker_Rank"/>
 		</Unit>
 		<Unit filename="/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/CMakeLists.txt">

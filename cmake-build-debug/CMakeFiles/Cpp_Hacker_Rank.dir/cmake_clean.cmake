@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o"
+  "CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.o"
   "Cpp_Hacker_Rank"
   "Cpp_Hacker_Rank.pdb"
 )

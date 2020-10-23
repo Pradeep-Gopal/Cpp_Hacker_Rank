@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-a_very_big_sum.o: a_very_big_sum.cpp.o
+diagonal_difference.o: diagonal_difference.cpp.o
 
-.PHONY : a_very_big_sum.o
+.PHONY : diagonal_difference.o
 
 # target to build an object file
-a_very_big_sum.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.o
-.PHONY : a_very_big_sum.cpp.o
+diagonal_difference.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.o
+.PHONY : diagonal_difference.cpp.o
 
-a_very_big_sum.i: a_very_big_sum.cpp.i
+diagonal_difference.i: diagonal_difference.cpp.i
 
-.PHONY : a_very_big_sum.i
+.PHONY : diagonal_difference.i
 
 # target to preprocess a source file
-a_very_big_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.i
-.PHONY : a_very_big_sum.cpp.i
+diagonal_difference.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.i
+.PHONY : diagonal_difference.cpp.i
 
-a_very_big_sum.s: a_very_big_sum.cpp.s
+diagonal_difference.s: diagonal_difference.cpp.s
 
-.PHONY : a_very_big_sum.s
+.PHONY : diagonal_difference.s
 
 # target to generate assembly for a file
-a_very_big_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/a_very_big_sum.cpp.s
-.PHONY : a_very_big_sum.cpp.s
+diagonal_difference.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/diagonal_difference.cpp.s
+.PHONY : diagonal_difference.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... a_very_big_sum.o"
-	@echo "... a_very_big_sum.i"
-	@echo "... a_very_big_sum.s"
+	@echo "... diagonal_difference.o"
+	@echo "... diagonal_difference.i"
+	@echo "... diagonal_difference.s"
 .PHONY : help
 
 
