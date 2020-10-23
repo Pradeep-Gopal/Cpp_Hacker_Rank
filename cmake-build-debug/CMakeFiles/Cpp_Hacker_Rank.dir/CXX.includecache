@@ -6,15 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/solveMeFirst.cpp.cpp
-cmath
--
-cstdio
--
-vector
--
-iostream
--
-algorithm
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/simpleArraySum.cpp
+bits/stdc++.h
 -
 
