@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-array_reversal.o: array_reversal.cpp.o
+variable_sized_arrays.o: variable_sized_arrays.cpp.o
 
-.PHONY : array_reversal.o
+.PHONY : variable_sized_arrays.o
 
 # target to build an object file
-array_reversal.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o
-.PHONY : array_reversal.cpp.o
+variable_sized_arrays.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/variable_sized_arrays.cpp.o
+.PHONY : variable_sized_arrays.cpp.o
 
-array_reversal.i: array_reversal.cpp.i
+variable_sized_arrays.i: variable_sized_arrays.cpp.i
 
-.PHONY : array_reversal.i
+.PHONY : variable_sized_arrays.i
 
 # target to preprocess a source file
-array_reversal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.i
-.PHONY : array_reversal.cpp.i
+variable_sized_arrays.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/variable_sized_arrays.cpp.i
+.PHONY : variable_sized_arrays.cpp.i
 
-array_reversal.s: array_reversal.cpp.s
+variable_sized_arrays.s: variable_sized_arrays.cpp.s
 
-.PHONY : array_reversal.s
+.PHONY : variable_sized_arrays.s
 
 # target to generate assembly for a file
-array_reversal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.s
-.PHONY : array_reversal.cpp.s
+variable_sized_arrays.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/variable_sized_arrays.cpp.s
+.PHONY : variable_sized_arrays.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... array_reversal.o"
-	@echo "... array_reversal.i"
-	@echo "... array_reversal.s"
+	@echo "... variable_sized_arrays.o"
+	@echo "... variable_sized_arrays.i"
+	@echo "... variable_sized_arrays.s"
 .PHONY : help
 
 

@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/array_reversal.cpp
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/variable_sized_arrays.cpp
+cmath
+-
+cstdio
+-
+vector
+-
 iostream
+-
+algorithm
 -
 

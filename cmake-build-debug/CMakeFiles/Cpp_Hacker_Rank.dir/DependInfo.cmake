@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/array_reversal.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o"
+  "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/variable_sized_arrays.cpp" "/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles/Cpp_Hacker_Rank.dir/variable_sized_arrays.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
