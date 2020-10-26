@@ -77,27 +77,27 @@ include CMakeFiles/Cpp_Hacker_Rank.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
 
-CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
-CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o: ../plus_minus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/plus_minus.cpp
+CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
+CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o: ../array_reversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/array_reversal.cpp
 
-CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/plus_minus.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.i
+CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/array_reversal.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.i
 
-CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/plus_minus.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.s
+CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/array_reversal.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.s
 
 # Object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_OBJECTS = \
-"CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o"
+"CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o"
 
 # External object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_EXTERNAL_OBJECTS =
 
-Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o
+Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/build.make
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp_Hacker_Rank"

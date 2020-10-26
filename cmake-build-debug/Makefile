@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-plus_minus.o: plus_minus.cpp.o
+array_reversal.o: array_reversal.cpp.o
 
-.PHONY : plus_minus.o
+.PHONY : array_reversal.o
 
 # target to build an object file
-plus_minus.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.o
-.PHONY : plus_minus.cpp.o
+array_reversal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.o
+.PHONY : array_reversal.cpp.o
 
-plus_minus.i: plus_minus.cpp.i
+array_reversal.i: array_reversal.cpp.i
 
-.PHONY : plus_minus.i
+.PHONY : array_reversal.i
 
 # target to preprocess a source file
-plus_minus.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.i
-.PHONY : plus_minus.cpp.i
+array_reversal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.i
+.PHONY : array_reversal.cpp.i
 
-plus_minus.s: plus_minus.cpp.s
+array_reversal.s: array_reversal.cpp.s
 
-.PHONY : plus_minus.s
+.PHONY : array_reversal.s
 
 # target to generate assembly for a file
-plus_minus.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/plus_minus.cpp.s
-.PHONY : plus_minus.cpp.s
+array_reversal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/array_reversal.cpp.s
+.PHONY : array_reversal.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... plus_minus.o"
-	@echo "... plus_minus.i"
-	@echo "... plus_minus.s"
+	@echo "... array_reversal.o"
+	@echo "... array_reversal.i"
+	@echo "... array_reversal.s"
 .PHONY : help
 
 
