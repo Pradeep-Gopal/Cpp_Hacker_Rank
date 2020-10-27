@@ -5,7 +5,6 @@
 #include <algorithm>
 
 
-
 int main() {
     int n, q, k, num, which, where;
     std::cin >> n >> q;
