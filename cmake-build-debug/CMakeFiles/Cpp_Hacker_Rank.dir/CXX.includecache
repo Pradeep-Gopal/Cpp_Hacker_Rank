@@ -6,15 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/operator_overloading.cpp
-cmath
--
-cstdio
--
-vector
--
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/overload_operators.cpp
 iostream
--
-algorithm
 -
 

@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-operator_overloading.o: operator_overloading.cpp.o
+overload_operators.o: overload_operators.cpp.o
 
-.PHONY : operator_overloading.o
+.PHONY : overload_operators.o
 
 # target to build an object file
-operator_overloading.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o
-.PHONY : operator_overloading.cpp.o
+overload_operators.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o
+.PHONY : overload_operators.cpp.o
 
-operator_overloading.i: operator_overloading.cpp.i
+overload_operators.i: overload_operators.cpp.i
 
-.PHONY : operator_overloading.i
+.PHONY : overload_operators.i
 
 # target to preprocess a source file
-operator_overloading.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.i
-.PHONY : operator_overloading.cpp.i
+overload_operators.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.i
+.PHONY : overload_operators.cpp.i
 
-operator_overloading.s: operator_overloading.cpp.s
+overload_operators.s: overload_operators.cpp.s
 
-.PHONY : operator_overloading.s
+.PHONY : overload_operators.s
 
 # target to generate assembly for a file
-operator_overloading.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.s
-.PHONY : operator_overloading.cpp.s
+overload_operators.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.s
+.PHONY : overload_operators.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... operator_overloading.o"
-	@echo "... operator_overloading.i"
-	@echo "... operator_overloading.s"
+	@echo "... overload_operators.o"
+	@echo "... overload_operators.i"
+	@echo "... overload_operators.s"
 .PHONY : help
 
 

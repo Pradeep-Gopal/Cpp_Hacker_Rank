@@ -77,27 +77,27 @@ include CMakeFiles/Cpp_Hacker_Rank.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
 
-CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
-CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o: ../operator_overloading.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/operator_overloading.cpp
+CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
+CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o: ../overload_operators.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/overload_operators.cpp
 
-CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/operator_overloading.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.i
+CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/overload_operators.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.i
 
-CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/operator_overloading.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.s
+CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/overload_operators.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.s
 
 # Object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_OBJECTS = \
-"CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o"
+"CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o"
 
 # External object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_EXTERNAL_OBJECTS =
 
-Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading.cpp.o
+Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/overload_operators.cpp.o
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/build.make
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp_Hacker_Rank"
