@@ -87,6 +87,9 @@
 		<Unit filename="/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/attribute_parser.cpp">
 			<Option target="Cpp_Hacker_Rank"/>
 		</Unit>
+		<Unit filename="/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/exception_handling_server.cpp">
+			<Option target="Cpp_Hacker_Rank"/>
+		</Unit>
 		<Unit filename="/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

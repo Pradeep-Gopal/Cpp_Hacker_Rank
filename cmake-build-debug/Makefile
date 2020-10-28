@@ -170,6 +170,33 @@ attribute_parser.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/attribute_parser.cpp.s
 .PHONY : attribute_parser.cpp.s
 
+exception_handling_server.o: exception_handling_server.cpp.o
+
+.PHONY : exception_handling_server.o
+
+# target to build an object file
+exception_handling_server.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.o
+.PHONY : exception_handling_server.cpp.o
+
+exception_handling_server.i: exception_handling_server.cpp.i
+
+.PHONY : exception_handling_server.i
+
+# target to preprocess a source file
+exception_handling_server.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.i
+.PHONY : exception_handling_server.cpp.i
+
+exception_handling_server.s: exception_handling_server.cpp.s
+
+.PHONY : exception_handling_server.s
+
+# target to generate assembly for a file
+exception_handling_server.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.s
+.PHONY : exception_handling_server.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +209,9 @@ help:
 	@echo "... attribute_parser.o"
 	@echo "... attribute_parser.i"
 	@echo "... attribute_parser.s"
+	@echo "... exception_handling_server.o"
+	@echo "... exception_handling_server.i"
+	@echo "... exception_handling_server.s"
 .PHONY : help
 
 
