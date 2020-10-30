@@ -77,27 +77,27 @@ include CMakeFiles/Cpp_Hacker_Rank.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
 
-CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
-CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o: ../Structs_in_cpp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Structs_in_cpp.cpp
+CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
+CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o: ../Class_student_info.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Class_student_info.cpp
 
-CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Structs_in_cpp.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.i
+CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Class_student_info.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.i
 
-CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Structs_in_cpp.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.s
+CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Class_student_info.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.s
 
 # Object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_OBJECTS = \
-"CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o"
+"CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o"
 
 # External object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_EXTERNAL_OBJECTS =
 
-Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o
+Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/build.make
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp_Hacker_Rank"

@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/attribute_parser.cpp
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Class_student_info.cpp
 iostream
 -
-map
+sstream
+-
+string
 -
 

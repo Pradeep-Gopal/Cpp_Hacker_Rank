@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o"
+  "CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o"
   "Cpp_Hacker_Rank"
   "Cpp_Hacker_Rank.pdb"
 )

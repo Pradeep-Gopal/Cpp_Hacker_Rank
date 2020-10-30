@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-Structs_in_cpp.o: Structs_in_cpp.cpp.o
+Class_student_info.o: Class_student_info.cpp.o
 
-.PHONY : Structs_in_cpp.o
+.PHONY : Class_student_info.o
 
 # target to build an object file
-Structs_in_cpp.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o
-.PHONY : Structs_in_cpp.cpp.o
+Class_student_info.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o
+.PHONY : Class_student_info.cpp.o
 
-Structs_in_cpp.i: Structs_in_cpp.cpp.i
+Class_student_info.i: Class_student_info.cpp.i
 
-.PHONY : Structs_in_cpp.i
+.PHONY : Class_student_info.i
 
 # target to preprocess a source file
-Structs_in_cpp.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.i
-.PHONY : Structs_in_cpp.cpp.i
+Class_student_info.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.i
+.PHONY : Class_student_info.cpp.i
 
-Structs_in_cpp.s: Structs_in_cpp.cpp.s
+Class_student_info.s: Class_student_info.cpp.s
 
-.PHONY : Structs_in_cpp.s
+.PHONY : Class_student_info.s
 
 # target to generate assembly for a file
-Structs_in_cpp.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.s
-.PHONY : Structs_in_cpp.cpp.s
+Class_student_info.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.s
+.PHONY : Class_student_info.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... Structs_in_cpp.o"
-	@echo "... Structs_in_cpp.i"
-	@echo "... Structs_in_cpp.s"
+	@echo "... Class_student_info.o"
+	@echo "... Class_student_info.i"
+	@echo "... Class_student_info.s"
 .PHONY : help
 
 
