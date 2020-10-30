@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp_Hacker_Rank.dir/attribute_parser.cpp.o"
-  "CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.o"
+  "CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o"
   "Cpp_Hacker_Rank"
   "Cpp_Hacker_Rank.pdb"
 )

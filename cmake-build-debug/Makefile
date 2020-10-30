@@ -143,59 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-attribute_parser.o: attribute_parser.cpp.o
+Structs_in_cpp.o: Structs_in_cpp.cpp.o
 
-.PHONY : attribute_parser.o
-
-# target to build an object file
-attribute_parser.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/attribute_parser.cpp.o
-.PHONY : attribute_parser.cpp.o
-
-attribute_parser.i: attribute_parser.cpp.i
-
-.PHONY : attribute_parser.i
-
-# target to preprocess a source file
-attribute_parser.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/attribute_parser.cpp.i
-.PHONY : attribute_parser.cpp.i
-
-attribute_parser.s: attribute_parser.cpp.s
-
-.PHONY : attribute_parser.s
-
-# target to generate assembly for a file
-attribute_parser.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/attribute_parser.cpp.s
-.PHONY : attribute_parser.cpp.s
-
-exception_handling_server.o: exception_handling_server.cpp.o
-
-.PHONY : exception_handling_server.o
+.PHONY : Structs_in_cpp.o
 
 # target to build an object file
-exception_handling_server.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.o
-.PHONY : exception_handling_server.cpp.o
+Structs_in_cpp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.o
+.PHONY : Structs_in_cpp.cpp.o
 
-exception_handling_server.i: exception_handling_server.cpp.i
+Structs_in_cpp.i: Structs_in_cpp.cpp.i
 
-.PHONY : exception_handling_server.i
+.PHONY : Structs_in_cpp.i
 
 # target to preprocess a source file
-exception_handling_server.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.i
-.PHONY : exception_handling_server.cpp.i
+Structs_in_cpp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.i
+.PHONY : Structs_in_cpp.cpp.i
 
-exception_handling_server.s: exception_handling_server.cpp.s
+Structs_in_cpp.s: Structs_in_cpp.cpp.s
 
-.PHONY : exception_handling_server.s
+.PHONY : Structs_in_cpp.s
 
 # target to generate assembly for a file
-exception_handling_server.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/exception_handling_server.cpp.s
-.PHONY : exception_handling_server.cpp.s
+Structs_in_cpp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Structs_in_cpp.cpp.s
+.PHONY : Structs_in_cpp.cpp.s
 
 # Help Target
 help:
@@ -206,12 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... attribute_parser.o"
-	@echo "... attribute_parser.i"
-	@echo "... attribute_parser.s"
-	@echo "... exception_handling_server.o"
-	@echo "... exception_handling_server.i"
-	@echo "... exception_handling_server.s"
+	@echo "... Structs_in_cpp.o"
+	@echo "... Structs_in_cpp.i"
+	@echo "... Structs_in_cpp.s"
 .PHONY : help
 
 

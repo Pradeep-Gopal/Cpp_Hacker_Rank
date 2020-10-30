@@ -94,12 +94,12 @@ clean: CMakeFiles/Cpp_Hacker_Rank.dir/clean
 CMakeFiles/Cpp_Hacker_Rank.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Cpp_Hacker_Rank"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Cpp_Hacker_Rank"
 .PHONY : CMakeFiles/Cpp_Hacker_Rank.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Cpp_Hacker_Rank.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Cpp_Hacker_Rank.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Cpp_Hacker_Rank.dir/rule
