@@ -6,17 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/classes_and_objects.cpp
-cmath
--
-cstdio
--
-vector
--
-iostream
--
-algorithm
--
-cassert
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/operator_overloading_with_classes.cpp
+bits/stdc++.h
 -
 

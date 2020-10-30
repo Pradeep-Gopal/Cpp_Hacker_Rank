@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-classes_and_objects.o: classes_and_objects.cpp.o
+operator_overloading_with_classes.o: operator_overloading_with_classes.cpp.o
 
-.PHONY : classes_and_objects.o
+.PHONY : operator_overloading_with_classes.o
 
 # target to build an object file
-classes_and_objects.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/classes_and_objects.cpp.o
-.PHONY : classes_and_objects.cpp.o
+operator_overloading_with_classes.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.o
+.PHONY : operator_overloading_with_classes.cpp.o
 
-classes_and_objects.i: classes_and_objects.cpp.i
+operator_overloading_with_classes.i: operator_overloading_with_classes.cpp.i
 
-.PHONY : classes_and_objects.i
+.PHONY : operator_overloading_with_classes.i
 
 # target to preprocess a source file
-classes_and_objects.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/classes_and_objects.cpp.i
-.PHONY : classes_and_objects.cpp.i
+operator_overloading_with_classes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.i
+.PHONY : operator_overloading_with_classes.cpp.i
 
-classes_and_objects.s: classes_and_objects.cpp.s
+operator_overloading_with_classes.s: operator_overloading_with_classes.cpp.s
 
-.PHONY : classes_and_objects.s
+.PHONY : operator_overloading_with_classes.s
 
 # target to generate assembly for a file
-classes_and_objects.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/classes_and_objects.cpp.s
-.PHONY : classes_and_objects.cpp.s
+operator_overloading_with_classes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.s
+.PHONY : operator_overloading_with_classes.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... classes_and_objects.o"
-	@echo "... classes_and_objects.i"
-	@echo "... classes_and_objects.s"
+	@echo "... operator_overloading_with_classes.o"
+	@echo "... operator_overloading_with_classes.i"
+	@echo "... operator_overloading_with_classes.s"
 .PHONY : help
 
 
