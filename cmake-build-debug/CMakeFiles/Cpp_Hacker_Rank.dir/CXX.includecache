@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/Class_student_info.cpp
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/classes_and_objects.cpp
+cmath
+-
+cstdio
+-
+vector
+-
 iostream
 -
-sstream
+algorithm
 -
-string
+cassert
 -
 

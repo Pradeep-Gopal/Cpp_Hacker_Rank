@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-Class_student_info.o: Class_student_info.cpp.o
+classes_and_objects.o: classes_and_objects.cpp.o
 
-.PHONY : Class_student_info.o
+.PHONY : classes_and_objects.o
 
 # target to build an object file
-Class_student_info.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.o
-.PHONY : Class_student_info.cpp.o
+classes_and_objects.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/classes_and_objects.cpp.o
+.PHONY : classes_and_objects.cpp.o
 
-Class_student_info.i: Class_student_info.cpp.i
+classes_and_objects.i: classes_and_objects.cpp.i
 
-.PHONY : Class_student_info.i
+.PHONY : classes_and_objects.i
 
 # target to preprocess a source file
-Class_student_info.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.i
-.PHONY : Class_student_info.cpp.i
+classes_and_objects.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/classes_and_objects.cpp.i
+.PHONY : classes_and_objects.cpp.i
 
-Class_student_info.s: Class_student_info.cpp.s
+classes_and_objects.s: classes_and_objects.cpp.s
 
-.PHONY : Class_student_info.s
+.PHONY : classes_and_objects.s
 
 # target to generate assembly for a file
-Class_student_info.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/Class_student_info.cpp.s
-.PHONY : Class_student_info.cpp.s
+classes_and_objects.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/classes_and_objects.cpp.s
+.PHONY : classes_and_objects.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... Class_student_info.o"
-	@echo "... Class_student_info.i"
-	@echo "... Class_student_info.s"
+	@echo "... classes_and_objects.o"
+	@echo "... classes_and_objects.i"
+	@echo "... classes_and_objects.s"
 .PHONY : help
 
 
