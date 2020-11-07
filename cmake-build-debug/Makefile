@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-inherited_code.o: inherited_code.cpp.o
+virtual_functions.o: virtual_functions.cpp.o
 
-.PHONY : inherited_code.o
+.PHONY : virtual_functions.o
 
 # target to build an object file
-inherited_code.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.o
-.PHONY : inherited_code.cpp.o
+virtual_functions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.o
+.PHONY : virtual_functions.cpp.o
 
-inherited_code.i: inherited_code.cpp.i
+virtual_functions.i: virtual_functions.cpp.i
 
-.PHONY : inherited_code.i
+.PHONY : virtual_functions.i
 
 # target to preprocess a source file
-inherited_code.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.i
-.PHONY : inherited_code.cpp.i
+virtual_functions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.i
+.PHONY : virtual_functions.cpp.i
 
-inherited_code.s: inherited_code.cpp.s
+virtual_functions.s: virtual_functions.cpp.s
 
-.PHONY : inherited_code.s
+.PHONY : virtual_functions.s
 
 # target to generate assembly for a file
-inherited_code.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.s
-.PHONY : inherited_code.cpp.s
+virtual_functions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.s
+.PHONY : virtual_functions.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... inherited_code.o"
-	@echo "... inherited_code.i"
-	@echo "... inherited_code.s"
+	@echo "... virtual_functions.o"
+	@echo "... virtual_functions.i"
+	@echo "... virtual_functions.s"
 .PHONY : help
 
 

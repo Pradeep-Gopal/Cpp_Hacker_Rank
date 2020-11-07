@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/inherited_code.cpp
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/virtual_functions.cpp
+cmath
+-
+cstdio
+-
+vector
+-
 iostream
 -
-string
+algorithm
 -
-sstream
--
-exception
+array
 -
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.o"
+  "CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.o"
   "Cpp_Hacker_Rank"
   "Cpp_Hacker_Rank.pdb"
 )
