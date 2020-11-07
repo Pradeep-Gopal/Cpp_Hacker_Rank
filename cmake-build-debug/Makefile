@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-operator_overloading_with_classes.o: operator_overloading_with_classes.cpp.o
+inherited_code.o: inherited_code.cpp.o
 
-.PHONY : operator_overloading_with_classes.o
+.PHONY : inherited_code.o
 
 # target to build an object file
-operator_overloading_with_classes.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.o
-.PHONY : operator_overloading_with_classes.cpp.o
+inherited_code.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.o
+.PHONY : inherited_code.cpp.o
 
-operator_overloading_with_classes.i: operator_overloading_with_classes.cpp.i
+inherited_code.i: inherited_code.cpp.i
 
-.PHONY : operator_overloading_with_classes.i
+.PHONY : inherited_code.i
 
 # target to preprocess a source file
-operator_overloading_with_classes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.i
-.PHONY : operator_overloading_with_classes.cpp.i
+inherited_code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.i
+.PHONY : inherited_code.cpp.i
 
-operator_overloading_with_classes.s: operator_overloading_with_classes.cpp.s
+inherited_code.s: inherited_code.cpp.s
 
-.PHONY : operator_overloading_with_classes.s
+.PHONY : inherited_code.s
 
 # target to generate assembly for a file
-operator_overloading_with_classes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.s
-.PHONY : operator_overloading_with_classes.cpp.s
+inherited_code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.s
+.PHONY : inherited_code.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... operator_overloading_with_classes.o"
-	@echo "... operator_overloading_with_classes.i"
-	@echo "... operator_overloading_with_classes.s"
+	@echo "... inherited_code.o"
+	@echo "... inherited_code.i"
+	@echo "... inherited_code.s"
 .PHONY : help
 
 

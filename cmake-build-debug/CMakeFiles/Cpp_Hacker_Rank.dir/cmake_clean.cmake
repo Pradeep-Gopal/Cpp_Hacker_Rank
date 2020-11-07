@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp_Hacker_Rank.dir/operator_overloading_with_classes.cpp.o"
+  "CMakeFiles/Cpp_Hacker_Rank.dir/inherited_code.cpp.o"
   "Cpp_Hacker_Rank"
   "Cpp_Hacker_Rank.pdb"
 )

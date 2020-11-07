@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/operator_overloading_with_classes.cpp
-bits/stdc++.h
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/inherited_code.cpp
+iostream
+-
+string
+-
+sstream
+-
+exception
 -
 

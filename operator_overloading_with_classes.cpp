@@ -33,22 +33,22 @@ private:
 
 bool operator < (Box &A, Box &B)
 {
-    int A_l, B_l, A_h, B_h, A_b, B_b;
+    long int A_l, B_l, A_h, B_h, A_b, B_b;
     A_l = A.getLength();
     B_l = B.getLength();
     A_b = A.getBreadth();
     B_b = B.getBreadth();
     A_h = A.getHeight();
     B_h = B.getHeight();
-    if(A_l < B_l)
+    if(A_l < B_l) {
+        return true;
+    }
+    if((A_b < B_b) &&(A_l == B_l)) {
+        return true;
+    }
+    if((A_h < B_h) && (A_b == B_b) && (A_l == B_l))
     {
-        if((A_b < B_b) &&(A_l == B_l))
-        {
-            if((A_h < B_h) && (A_b == B_b) && (A_l == B_l))
-            {
-                return true;
-            }
-        }
+        return true;
     }
     return false;
 }
