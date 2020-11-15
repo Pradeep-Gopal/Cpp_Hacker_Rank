@@ -23,6 +23,6 @@ int main(){
     std::cout << v.size() << std::endl;
 
     for(auto i : v)
-        std::cout<<i " ";
+        std::cout<<i << " ";
     return 0;
 }

@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-vector_erase.o: vector_erase.cpp.o
+lower_bound.o: lower_bound.cpp.o
 
-.PHONY : vector_erase.o
+.PHONY : lower_bound.o
 
 # target to build an object file
-vector_erase.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o
-.PHONY : vector_erase.cpp.o
+lower_bound.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/lower_bound.cpp.o
+.PHONY : lower_bound.cpp.o
 
-vector_erase.i: vector_erase.cpp.i
+lower_bound.i: lower_bound.cpp.i
 
-.PHONY : vector_erase.i
+.PHONY : lower_bound.i
 
 # target to preprocess a source file
-vector_erase.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.i
-.PHONY : vector_erase.cpp.i
+lower_bound.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/lower_bound.cpp.i
+.PHONY : lower_bound.cpp.i
 
-vector_erase.s: vector_erase.cpp.s
+lower_bound.s: lower_bound.cpp.s
 
-.PHONY : vector_erase.s
+.PHONY : lower_bound.s
 
 # target to generate assembly for a file
-vector_erase.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.s
-.PHONY : vector_erase.cpp.s
+lower_bound.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/lower_bound.cpp.s
+.PHONY : lower_bound.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... vector_erase.o"
-	@echo "... vector_erase.i"
-	@echo "... vector_erase.s"
+	@echo "... lower_bound.o"
+	@echo "... lower_bound.i"
+	@echo "... lower_bound.s"
 .PHONY : help
 
 
