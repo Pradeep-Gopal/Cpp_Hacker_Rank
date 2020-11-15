@@ -6,10 +6,18 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/lower_bound.cpp
-iostream
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/maps.cpp
+cmath
+-
+cstdio
 -
 vector
+-
+iostream
+-
+set
+-
+map
 -
 algorithm
 -

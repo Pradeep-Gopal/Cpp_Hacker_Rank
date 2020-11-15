@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-sets.o: sets.cpp.o
+maps.o: maps.cpp.o
 
-.PHONY : sets.o
+.PHONY : maps.o
 
 # target to build an object file
-sets.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/sets.cpp.o
-.PHONY : sets.cpp.o
+maps.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/maps.cpp.o
+.PHONY : maps.cpp.o
 
-sets.i: sets.cpp.i
+maps.i: maps.cpp.i
 
-.PHONY : sets.i
+.PHONY : maps.i
 
 # target to preprocess a source file
-sets.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/sets.cpp.i
-.PHONY : sets.cpp.i
+maps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/maps.cpp.i
+.PHONY : maps.cpp.i
 
-sets.s: sets.cpp.s
+maps.s: maps.cpp.s
 
-.PHONY : sets.s
+.PHONY : maps.s
 
 # target to generate assembly for a file
-sets.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/sets.cpp.s
-.PHONY : sets.cpp.s
+maps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/maps.cpp.s
+.PHONY : maps.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... sets.o"
-	@echo "... sets.i"
-	@echo "... sets.s"
+	@echo "... maps.o"
+	@echo "... maps.i"
+	@echo "... maps.s"
 .PHONY : help
 
 
