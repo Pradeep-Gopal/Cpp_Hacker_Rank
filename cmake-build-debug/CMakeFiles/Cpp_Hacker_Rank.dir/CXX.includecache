@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/virtual_functions.cpp
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vect0r_sort.cpp
 cmath
 -
 cstdio
@@ -16,7 +16,5 @@ vector
 iostream
 -
 algorithm
--
-array
 -
 

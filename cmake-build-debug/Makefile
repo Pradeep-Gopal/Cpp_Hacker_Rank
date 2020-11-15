@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-virtual_functions.o: virtual_functions.cpp.o
+vect0r_sort.o: vect0r_sort.cpp.o
 
-.PHONY : virtual_functions.o
+.PHONY : vect0r_sort.o
 
 # target to build an object file
-virtual_functions.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.o
-.PHONY : virtual_functions.cpp.o
+vect0r_sort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o
+.PHONY : vect0r_sort.cpp.o
 
-virtual_functions.i: virtual_functions.cpp.i
+vect0r_sort.i: vect0r_sort.cpp.i
 
-.PHONY : virtual_functions.i
+.PHONY : vect0r_sort.i
 
 # target to preprocess a source file
-virtual_functions.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.i
-.PHONY : virtual_functions.cpp.i
+vect0r_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.i
+.PHONY : vect0r_sort.cpp.i
 
-virtual_functions.s: virtual_functions.cpp.s
+vect0r_sort.s: vect0r_sort.cpp.s
 
-.PHONY : virtual_functions.s
+.PHONY : vect0r_sort.s
 
 # target to generate assembly for a file
-virtual_functions.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/virtual_functions.cpp.s
-.PHONY : virtual_functions.cpp.s
+vect0r_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.s
+.PHONY : vect0r_sort.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... virtual_functions.o"
-	@echo "... virtual_functions.i"
-	@echo "... virtual_functions.s"
+	@echo "... vect0r_sort.o"
+	@echo "... vect0r_sort.i"
+	@echo "... vect0r_sort.s"
 .PHONY : help
 
 
