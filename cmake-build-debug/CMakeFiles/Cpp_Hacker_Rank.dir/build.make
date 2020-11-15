@@ -77,27 +77,27 @@ include CMakeFiles/Cpp_Hacker_Rank.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
 
-CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
-CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o: ../vect0r_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vect0r_sort.cpp
+CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o: CMakeFiles/Cpp_Hacker_Rank.dir/flags.make
+CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o: ../vector_erase.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o -c /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vector_erase.cpp
 
-CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vect0r_sort.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.i
+CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vector_erase.cpp > CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.i
 
-CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vect0r_sort.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.s
+CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/prachu/Desktop/Courses/Cpp_Hacker_Rank/vector_erase.cpp -o CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.s
 
 # Object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_OBJECTS = \
-"CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o"
+"CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o"
 
 # External object files for target Cpp_Hacker_Rank
 Cpp_Hacker_Rank_EXTERNAL_OBJECTS =
 
-Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o
+Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/build.make
 Cpp_Hacker_Rank: CMakeFiles/Cpp_Hacker_Rank.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp_Hacker_Rank"

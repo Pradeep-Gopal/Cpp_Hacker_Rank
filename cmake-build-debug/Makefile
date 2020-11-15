@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-vect0r_sort.o: vect0r_sort.cpp.o
+vector_erase.o: vector_erase.cpp.o
 
-.PHONY : vect0r_sort.o
+.PHONY : vector_erase.o
 
 # target to build an object file
-vect0r_sort.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.o
-.PHONY : vect0r_sort.cpp.o
+vector_erase.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.o
+.PHONY : vector_erase.cpp.o
 
-vect0r_sort.i: vect0r_sort.cpp.i
+vector_erase.i: vector_erase.cpp.i
 
-.PHONY : vect0r_sort.i
+.PHONY : vector_erase.i
 
 # target to preprocess a source file
-vect0r_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.i
-.PHONY : vect0r_sort.cpp.i
+vector_erase.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.i
+.PHONY : vector_erase.cpp.i
 
-vect0r_sort.s: vect0r_sort.cpp.s
+vector_erase.s: vector_erase.cpp.s
 
-.PHONY : vect0r_sort.s
+.PHONY : vector_erase.s
 
 # target to generate assembly for a file
-vect0r_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vect0r_sort.cpp.s
-.PHONY : vect0r_sort.cpp.s
+vector_erase.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/vector_erase.cpp.s
+.PHONY : vector_erase.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... vect0r_sort.o"
-	@echo "... vect0r_sort.i"
-	@echo "... vect0r_sort.s"
+	@echo "... vector_erase.o"
+	@echo "... vector_erase.i"
+	@echo "... vector_erase.s"
 .PHONY : help
 
 
