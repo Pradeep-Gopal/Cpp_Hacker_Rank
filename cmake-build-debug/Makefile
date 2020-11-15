@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-lower_bound.o: lower_bound.cpp.o
+sets.o: sets.cpp.o
 
-.PHONY : lower_bound.o
+.PHONY : sets.o
 
 # target to build an object file
-lower_bound.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/lower_bound.cpp.o
-.PHONY : lower_bound.cpp.o
+sets.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/sets.cpp.o
+.PHONY : sets.cpp.o
 
-lower_bound.i: lower_bound.cpp.i
+sets.i: sets.cpp.i
 
-.PHONY : lower_bound.i
+.PHONY : sets.i
 
 # target to preprocess a source file
-lower_bound.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/lower_bound.cpp.i
-.PHONY : lower_bound.cpp.i
+sets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/sets.cpp.i
+.PHONY : sets.cpp.i
 
-lower_bound.s: lower_bound.cpp.s
+sets.s: sets.cpp.s
 
-.PHONY : lower_bound.s
+.PHONY : sets.s
 
 # target to generate assembly for a file
-lower_bound.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/lower_bound.cpp.s
-.PHONY : lower_bound.cpp.s
+sets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/sets.cpp.s
+.PHONY : sets.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... lower_bound.o"
-	@echo "... lower_bound.i"
-	@echo "... lower_bound.s"
+	@echo "... sets.o"
+	@echo "... sets.i"
+	@echo "... sets.s"
 .PHONY : help
 
 
