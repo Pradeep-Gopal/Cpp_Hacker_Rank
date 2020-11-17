@@ -143,32 +143,32 @@ Cpp_Hacker_Rank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/build
 .PHONY : Cpp_Hacker_Rank/fast
 
-maps.o: maps.cpp.o
+print_pretty.o: print_pretty.cpp.o
 
-.PHONY : maps.o
+.PHONY : print_pretty.o
 
 # target to build an object file
-maps.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/maps.cpp.o
-.PHONY : maps.cpp.o
+print_pretty.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/print_pretty.cpp.o
+.PHONY : print_pretty.cpp.o
 
-maps.i: maps.cpp.i
+print_pretty.i: print_pretty.cpp.i
 
-.PHONY : maps.i
+.PHONY : print_pretty.i
 
 # target to preprocess a source file
-maps.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/maps.cpp.i
-.PHONY : maps.cpp.i
+print_pretty.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/print_pretty.cpp.i
+.PHONY : print_pretty.cpp.i
 
-maps.s: maps.cpp.s
+print_pretty.s: print_pretty.cpp.s
 
-.PHONY : maps.s
+.PHONY : print_pretty.s
 
 # target to generate assembly for a file
-maps.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/maps.cpp.s
-.PHONY : maps.cpp.s
+print_pretty.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Cpp_Hacker_Rank.dir/build.make CMakeFiles/Cpp_Hacker_Rank.dir/print_pretty.cpp.s
+.PHONY : print_pretty.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Cpp_Hacker_Rank"
-	@echo "... maps.o"
-	@echo "... maps.i"
-	@echo "... maps.s"
+	@echo "... print_pretty.o"
+	@echo "... print_pretty.i"
+	@echo "... print_pretty.s"
 .PHONY : help
 
 

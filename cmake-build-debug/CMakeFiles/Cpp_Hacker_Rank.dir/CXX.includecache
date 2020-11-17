@@ -6,19 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/maps.cpp
-cmath
--
-cstdio
--
-vector
--
+/home/prachu/Desktop/Courses/Cpp_Hacker_Rank/print_pretty.cpp
 iostream
 -
-set
+iomanip
 -
-map
--
-algorithm
+math.h
 -
 
